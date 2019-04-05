@@ -1,6 +1,3 @@
-![](C:\Users\Administrator\Pictures\xiniu_neteasy.png)
-
-![3](C:\Users\Administrator\Pictures\Saved Pictures\47.png)
 
 #                                       *Machine Learning Engineer*
 
