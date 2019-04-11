@@ -99,7 +99,6 @@ k折交叉验证法（k-cross validation） --数据集分为若干等份，每�
 
 应用模型 --放假预测例子（一元到多元的研究）
 
-![11](C:\Users\Administrator\Pictures\Saved Pictures\11.jpg)
 
 损失函数（loss function）
 
@@ -733,7 +732,6 @@ graph = pydotplus.graph_from_dot_data(dot_data)
 display(Image(graph.create_png()))
 ```
 
-![10](C:\Users\Administrator\Pictures\Saved Pictures\10.png)
 
 ### 3.2分类回归树与随机森林
 
@@ -765,7 +763,6 @@ display(Image(graph.create_png()))
 
 #### 3.2.2回归树模型
 
-![20](C:\Users\Administrator\Pictures\Saved Pictures\20.jpg)
 
 **递归二分** 
 
